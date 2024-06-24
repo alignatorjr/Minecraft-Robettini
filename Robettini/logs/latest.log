@@ -1,0 +1,34 @@
+[17:01:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:01:10] [ServerMain/INFO]: Loaded 1175 recipes
+[17:01:10] [ServerMain/INFO]: Loaded 1276 advancements
+[17:01:11] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[17:01:11] [Server thread/INFO]: Loading properties
+[17:01:11] [Server thread/INFO]: Default game type: SURVIVAL
+[17:01:11] [Server thread/INFO]: Generating keypair
+[17:01:11] [Server thread/INFO]: Starting Minecraft server on *:25575
+[17:01:11] [Server thread/INFO]: Using default channel type
+[17:01:11] [Server thread/INFO]: Preparing level "world"
+[17:01:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:01:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:01:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:01:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:01:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:01:15] [Server thread/INFO]: Time elapsed: 1897 ms
+[17:01:15] [Server thread/INFO]: Done (3.609s)! For help, type "help"
+[17:01:18] [User Authenticator #1/INFO]: UUID of player SwordsLeo is 715ef24f-219f-497d-87be-96977dea3cea
+[17:01:19] [Server thread/INFO]: SwordsLeo[/192.168.50.112:61601] logged in with entity id 56 at (738.1077895867207, 110.0, -66.0265557007614)
+[17:01:19] [Server thread/INFO]: SwordsLeo joined the game
+[17:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[17:02:22] [Server thread/INFO]: SwordsLeo lost connection: Disconnected
+[17:02:22] [Server thread/INFO]: SwordsLeo left the game
+[17:02:26] [Server thread/INFO]: Stopping the server
+[17:02:26] [Server thread/INFO]: Stopping server
+[17:02:26] [Server thread/INFO]: Saving players
+[17:02:26] [Server thread/INFO]: Saving worlds
+[17:02:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:02:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:02:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:02:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:02:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:02:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:02:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
