@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "b1bf0242-1888-3113-818a-7909f86237f6",
+    "name": "SwordsLeo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "715ef24f-219f-497d-87be-96977dea3cea",
+    "name": "SwordsLeo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bb0452e7-3721-45af-a23b-ba353520ed11",
+    "name": "OcelotKatie",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
