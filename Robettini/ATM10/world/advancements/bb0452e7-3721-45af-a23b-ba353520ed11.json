@@ -268,6 +268,7 @@
       "biomeswevegone:lush_stacks": "2025-12-19 17:24:20 -0800",
       "biomeswevegone:coconino_meadow": "2025-12-27 02:46:01 -0800",
       "biomeswevegone:mojave_desert": "2025-12-19 17:07:06 -0800",
+      "biomeswevegone:pumpkin_valley": "2025-12-30 01:25:09 -0800",
       "biomeswevegone:rugged_badlands": "2025-12-25 23:00:43 -0800",
       "biomeswevegone:prairie": "2025-12-29 03:04:20 -0800",
       "biomeswevegone:baobab_savanna": "2025-12-19 17:34:04 -0800",
@@ -324,6 +325,7 @@
       "minecraft:pillager": "2025-12-23 00:04:53 -0800",
       "minecraft:cave_spider": "2025-12-25 23:35:28 -0800",
       "minecraft:skeleton": "2025-12-25 23:40:07 -0800",
+      "minecraft:vindicator": "2025-12-30 00:18:09 -0800",
       "minecraft:silverfish": "2025-12-25 23:39:49 -0800",
       "minecraft:spider": "2025-12-19 17:10:09 -0800",
       "minecraft:zombie": "2025-12-24 16:12:38 -0800",
@@ -597,6 +599,7 @@
       "flower_fields": "2025-12-23 00:22:59 -0800",
       "gravel_beach": "2025-12-26 00:01:24 -0800",
       "frozen_pine_taiga": "2025-12-27 02:44:37 -0800",
+      "maple_forest": "2025-12-30 01:30:44 -0800",
       "towering_cliffs": "2025-12-23 00:27:36 -0800",
       "icy_heights": "2025-12-27 02:44:55 -0800",
       "bamboo_forest": "2025-12-25 22:55:04 -0800"
@@ -617,6 +620,7 @@
       "flower_fields": "2025-12-23 00:22:59 -0800",
       "gravel_beach": "2025-12-26 00:01:24 -0800",
       "frozen_pine_taiga": "2025-12-27 02:44:37 -0800",
+      "maple_forest": "2025-12-30 01:30:44 -0800",
       "towering_cliffs": "2025-12-23 00:27:36 -0800",
       "icy_heights": "2025-12-27 02:44:55 -0800",
       "bamboo_forest": "2025-12-25 22:55:04 -0800"
@@ -836,6 +840,18 @@
   "apothic_enchanting:bookshelf": {
     "criteria": {
       "bookshelf": "2025-12-29 02:46:15 -0800"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-12-30 01:43:42 -0800"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-12-30 01:43:42 -0800"
     },
     "done": true
   },
