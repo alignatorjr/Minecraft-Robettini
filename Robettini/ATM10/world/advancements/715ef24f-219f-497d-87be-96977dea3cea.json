@@ -133,6 +133,7 @@
       "minecraft:lukewarm_ocean": "2025-12-22 23:57:10 -0800",
       "minecraft:stony_shore": "2025-12-25 23:23:06 -0800",
       "minecraft:lush_caves": "2026-01-04 22:57:57 -0800",
+      "minecraft:old_growth_birch_forest": "2026-01-14 13:45:13 -0800",
       "minecraft:eroded_badlands": "2025-12-25 22:46:15 -0800",
       "minecraft:desert": "2025-12-19 16:19:39 -0800",
       "minecraft:ocean": "2025-12-23 00:11:18 -0800",
@@ -342,6 +343,7 @@
       "minecraft:skeleton": "2025-12-24 15:42:35 -0800",
       "minecraft:witch": "2025-12-19 17:25:10 -0800",
       "minecraft:husk": "2025-12-19 17:10:28 -0800",
+      "minecraft:bogged": "2026-01-14 15:09:55 -0800",
       "minecraft:ghast": "2026-01-04 22:41:10 -0800",
       "minecraft:hoglin": "2026-01-04 22:34:22 -0800",
       "minecraft:cave_spider": "2025-12-25 23:27:40 -0800",
@@ -372,6 +374,7 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_legs": "2025-12-19 17:10:31 -0800",
+      "kill_apothic_invader": "2026-01-14 15:23:22 -0800",
       "uncommon_hand": "2025-12-19 17:11:01 -0800",
       "uncommon_helm": "2025-12-22 23:28:02 -0800"
     },
@@ -632,6 +635,7 @@
       "willow_forest": "2025-12-25 00:16:58 -0800",
       "joshua_desert": "2025-12-25 23:17:11 -0800",
       "silver_birch_forest": "2025-12-23 00:22:40 -0800",
+      "temperate_grove": "2026-01-14 13:44:33 -0800",
       "cold_river": "2025-12-25 00:21:59 -0800",
       "poppy_fields": "2025-12-23 00:22:55 -0800",
       "dry_bushland": "2025-12-25 23:17:17 -0800",
@@ -639,6 +643,7 @@
       "glistering_meadow": "2026-01-04 22:33:43 -0800",
       "rocky_meadow": "2025-12-23 00:22:33 -0800",
       "mycotoxic_undergrowth": "2026-01-04 22:37:36 -0800",
+      "pine_taiga": "2026-01-14 13:44:49 -0800",
       "flower_fields": "2025-12-23 00:22:53 -0800",
       "gravel_beach": "2025-12-25 00:14:09 -0800",
       "maple_forest": "2025-12-25 00:18:55 -0800",
@@ -652,11 +657,13 @@
       "willow_forest": "2025-12-25 00:16:58 -0800",
       "joshua_desert": "2025-12-25 23:17:11 -0800",
       "silver_birch_forest": "2025-12-23 00:22:40 -0800",
+      "temperate_grove": "2026-01-14 13:44:33 -0800",
       "cold_river": "2025-12-25 00:21:59 -0800",
       "poppy_fields": "2025-12-23 00:22:55 -0800",
       "dry_bushland": "2025-12-25 23:17:17 -0800",
       "grassy_beach": "2025-12-25 00:14:12 -0800",
       "rocky_meadow": "2025-12-23 00:22:33 -0800",
+      "pine_taiga": "2026-01-14 13:44:49 -0800",
       "flower_fields": "2025-12-23 00:22:53 -0800",
       "gravel_beach": "2025-12-25 00:14:09 -0800",
       "maple_forest": "2025-12-25 00:18:55 -0800",
@@ -673,7 +680,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-12-23 00:29:26 -0800"
+      "in_better_spider_dungeon": "2025-12-23 00:29:26 -0800",
+      "in_better_monster_room": "2026-01-14 15:14:01 -0800"
     },
     "done": false
   },
@@ -1110,6 +1118,13 @@
     },
     "done": true
   },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ore": "2026-01-04 22:35:58 -0800",
+      "get_ingot": "2026-01-04 22:32:31 -0800"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2026-01-04 22:33:43 -0800"
@@ -1123,22 +1138,15 @@
     },
     "done": false
   },
-  "silentgear:crimson_iron": {
-    "criteria": {
-      "get_ore": "2026-01-04 22:35:58 -0800",
-      "get_ingot": "2026-01-04 22:32:31 -0800"
-    },
-    "done": true
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2026-01-04 22:33:43 -0800"
     },
     "done": true
   },
-  "evilcraft:second_age": {
+  "silentgear:nether": {
     "criteria": {
-      "criteria_0": "2026-01-04 23:30:20 -0800"
+      "entered_nether": "2026-01-04 22:33:43 -0800"
     },
     "done": true
   },
@@ -1148,9 +1156,57 @@
     },
     "done": true
   },
-  "silentgear:nether": {
+  "evilcraft:second_age": {
     "criteria": {
-      "entered_nether": "2026-01-04 22:33:43 -0800"
+      "criteria_0": "2026-01-04 23:30:20 -0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2026-01-14 14:23:45 -0800"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2026-01-14 13:02:46 -0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2026-01-14 15:28:32 -0800"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2026-01-14 15:14:01 -0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2026-01-14 13:47:51 -0800"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2026-01-14 13:02:20 -0800"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2026-01-14 12:52:10 -0800"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2026-01-14 13:01:09 -0800"
     },
     "done": true
   },
