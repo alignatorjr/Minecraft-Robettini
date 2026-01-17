@@ -743,7 +743,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-12-24 23:55:13 -0800"
+      "apple": "2025-12-24 23:55:13 -0800",
+      "golden_apple": "2026-01-16 19:06:46 -0800"
     },
     "done": false
   },
@@ -974,6 +975,18 @@
   "pneumaticcraft:pressure_tube": {
     "criteria": {
       "0": "2026-01-14 13:32:15 -0800"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2026-01-16 19:39:04 -0800"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2026-01-16 20:21:14 -0800"
     },
     "done": true
   },
