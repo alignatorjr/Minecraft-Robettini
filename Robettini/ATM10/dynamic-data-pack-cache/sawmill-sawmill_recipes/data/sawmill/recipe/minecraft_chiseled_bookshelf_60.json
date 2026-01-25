@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:northland_log"
+      "item": "regions_unexplored:larch_log"
     },
     {
-      "item": "eternal_starlight:northland_wood"
+      "item": "regions_unexplored:larch_wood"
     },
     {
-      "item": "eternal_starlight:stripped_northland_log"
+      "item": "regions_unexplored:stripped_larch_log"
     },
     {
-      "item": "eternal_starlight:stripped_northland_wood"
+      "item": "regions_unexplored:stripped_larch_wood"
     }
   ],
   "result": {

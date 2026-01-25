@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:florus_stem"
+      "item": "regions_unexplored:pink_bioshroom_stem"
     },
     {
-      "item": "biomeswevegone:florus_wood"
+      "item": "regions_unexplored:pink_bioshroom_hyphae"
     },
     {
-      "item": "biomeswevegone:stripped_florus_stem"
+      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
     },
     {
-      "item": "biomeswevegone:stripped_florus_wood"
+      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
     }
   ],
   "result": {

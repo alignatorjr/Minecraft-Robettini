@@ -990,5 +990,29 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/place_townhall": {
+    "criteria": {
+      "build_tool_place_town_hall": "2026-01-25 14:59:18 -0800"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2026-01-25 15:05:09 -0800"
+    },
+    "done": true
+  },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai:mahoutsukai": "2026-01-25 14:21:19 -0800"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2026-01-25 15:04:38 -0800"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

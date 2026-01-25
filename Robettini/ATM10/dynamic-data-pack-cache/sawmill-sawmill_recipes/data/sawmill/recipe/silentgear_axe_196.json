@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "productivetrees:european_larch_log"
     },
     {
-      "item": "undergarden:wigglewood_wood"
+      "item": "productivetrees:european_larch_wood"
     },
     {
-      "item": "undergarden:stripped_wigglewood_log"
+      "item": "productivetrees:european_larch_stripped_log"
     },
     {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "productivetrees:european_larch_stripped_wood"
     }
   ],
   "result": {

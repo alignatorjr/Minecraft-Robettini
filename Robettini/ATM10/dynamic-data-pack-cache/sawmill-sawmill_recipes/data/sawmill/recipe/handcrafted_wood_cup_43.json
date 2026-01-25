@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:northland_planks"
+    "item": "productivetrees:orange_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

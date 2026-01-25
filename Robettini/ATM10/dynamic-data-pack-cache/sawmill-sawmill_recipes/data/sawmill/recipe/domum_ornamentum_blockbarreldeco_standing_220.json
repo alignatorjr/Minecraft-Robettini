@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:buddhas_hand_log"
+      "item": "productivetrees:white_poplar_log"
     },
     {
-      "item": "productivetrees:buddhas_hand_wood"
+      "item": "productivetrees:white_poplar_wood"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_log"
+      "item": "productivetrees:white_poplar_stripped_log"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_wood"
+      "item": "productivetrees:white_poplar_stripped_wood"
     }
   ],
   "result": {

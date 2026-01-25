@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:jacaranda_log"
+      "item": "productivetrees:firecracker_log"
     },
     {
-      "item": "biomeswevegone:jacaranda_wood"
+      "item": "productivetrees:firecracker_wood"
     },
     {
-      "item": "biomeswevegone:stripped_jacaranda_log"
+      "item": "productivetrees:firecracker_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_jacaranda_wood"
+      "item": "productivetrees:firecracker_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:grandidiers_baobab_log"
-    },
-    {
-      "item": "productivetrees:grandidiers_baobab_wood"
-    },
-    {
-      "item": "productivetrees:grandidiers_baobab_stripped_log"
-    },
-    {
-      "item": "productivetrees:grandidiers_baobab_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "aquaculture:wooden_fillet_knife",
     "count": 1

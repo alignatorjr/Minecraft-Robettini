@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "silentgear:netherwood_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "silentgear:netherwood_wood"
+    },
+    {
+      "item": "silentgear:stripped_netherwood_log"
+    },
+    {
+      "item": "silentgear:stripped_netherwood_wood"
     }
   ],
   "result": {

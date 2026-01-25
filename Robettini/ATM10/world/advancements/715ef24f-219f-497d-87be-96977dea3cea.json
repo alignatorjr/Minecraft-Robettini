@@ -1232,21 +1232,75 @@
     },
     "done": true
   },
-  "mekanism:basic_control_circuit": {
-    "criteria": {
-      "basic_control_circuit": "2026-01-24 14:40:06 -0800"
-    },
-    "done": true
-  },
   "mekanism:steel_casing": {
     "criteria": {
       "steel_casing": "2026-01-24 14:30:34 -0800"
     },
     "done": true
   },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2026-01-24 14:40:06 -0800"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2026-01-24 14:57:26 -0800"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2026-01-25 14:39:21 -0800"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2026-01-25 14:42:13 -0800"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2026-01-25 14:40:29 -0800"
+    },
+    "done": true
+  },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2026-01-25 15:34:03 -0800"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2026-01-25 15:05:09 -0800"
+    },
+    "done": true
+  },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai:mahoutsukai": "2026-01-25 14:18:26 -0800"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder": {
+    "criteria": {
+      "builders_hut": "2026-01-25 15:34:03 -0800"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2026-01-25 14:43:16 -0800"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2026-01-25 15:04:45 -0800"
     },
     "done": true
   },

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:aspen_log"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "biomeswevegone:aspen_wood"
+      "item": "aether:skyroot_wood"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_log"
+      "item": "aether:stripped_skyroot_log"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_wood"
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {

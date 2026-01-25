@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "productivetrees:salak_log"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
+      "item": "productivetrees:salak_wood"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_log"
+      "item": "productivetrees:salak_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "productivetrees:salak_stripped_wood"
     }
   ],
   "result": {

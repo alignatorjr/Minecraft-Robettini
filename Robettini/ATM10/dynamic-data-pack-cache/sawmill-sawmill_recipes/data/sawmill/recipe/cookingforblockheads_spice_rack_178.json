@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "undergarden:wigglewood_log"
-    },
-    {
-      "item": "undergarden:wigglewood_wood"
-    },
-    {
-      "item": "undergarden:stripped_wigglewood_log"
-    },
-    {
-      "item": "undergarden:stripped_wigglewood_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "cookingforblockheads:spice_rack",
     "count": 4

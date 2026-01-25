@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "productivetrees:walnut_log"
     },
     {
-      "item": "undergarden:smogstem_wood"
+      "item": "productivetrees:walnut_wood"
     },
     {
-      "item": "undergarden:stripped_smogstem_log"
+      "item": "productivetrees:walnut_stripped_log"
     },
     {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "productivetrees:walnut_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rose_gum_log"
+      "item": "productivetrees:star_anise_log"
     },
     {
-      "item": "productivetrees:rose_gum_wood"
+      "item": "productivetrees:star_anise_wood"
     },
     {
-      "item": "productivetrees:rose_gum_stripped_log"
+      "item": "productivetrees:star_anise_stripped_log"
     },
     {
-      "item": "productivetrees:rose_gum_stripped_wood"
+      "item": "productivetrees:star_anise_stripped_wood"
     }
   ],
   "result": {

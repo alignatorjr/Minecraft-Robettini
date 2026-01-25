@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:coconut_log"
+      "item": "productivetrees:star_anise_log"
     },
     {
-      "item": "productivetrees:coconut_wood"
+      "item": "productivetrees:star_anise_wood"
     },
     {
-      "item": "productivetrees:coconut_stripped_log"
+      "item": "productivetrees:star_anise_stripped_log"
     },
     {
-      "item": "productivetrees:coconut_stripped_wood"
+      "item": "productivetrees:star_anise_stripped_wood"
     }
   ],
   "result": {

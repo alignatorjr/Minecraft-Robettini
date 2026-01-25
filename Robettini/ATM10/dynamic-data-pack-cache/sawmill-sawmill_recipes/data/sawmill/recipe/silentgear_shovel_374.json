@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:elm_log"
+      "item": "productivetrees:brown_amber_log"
     },
     {
-      "item": "productivetrees:elm_wood"
+      "item": "productivetrees:brown_amber_wood"
     },
     {
-      "item": "productivetrees:elm_stripped_log"
+      "item": "productivetrees:brown_amber_stripped_log"
     },
     {
-      "item": "productivetrees:elm_stripped_wood"
+      "item": "productivetrees:brown_amber_stripped_wood"
     }
   ],
   "result": {

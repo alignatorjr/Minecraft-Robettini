@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:jackfruit_log"
-    },
-    {
-      "item": "productivetrees:jackfruit_wood"
-    },
-    {
-      "item": "productivetrees:jackfruit_stripped_log"
-    },
-    {
-      "item": "productivetrees:jackfruit_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "iceandfire:earplugs",
     "count": 1

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:white_poplar_log"
+      "item": "forbidden_arcanus:aurum_log"
     },
     {
-      "item": "productivetrees:white_poplar_wood"
+      "item": "forbidden_arcanus:aurum_wood"
     },
     {
-      "item": "productivetrees:white_poplar_stripped_log"
+      "item": "forbidden_arcanus:stripped_aurum_log"
     },
     {
-      "item": "productivetrees:white_poplar_stripped_wood"
+      "item": "forbidden_arcanus:stripped_aurum_wood"
     }
   ],
   "result": {

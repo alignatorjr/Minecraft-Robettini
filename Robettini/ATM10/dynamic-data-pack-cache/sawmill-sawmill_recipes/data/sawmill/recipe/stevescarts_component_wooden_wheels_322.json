@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "iceandfire:dreadwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:rowan_log"
+    },
+    {
+      "item": "productivetrees:rowan_wood"
+    },
+    {
+      "item": "productivetrees:rowan_stripped_log"
+    },
+    {
+      "item": "productivetrees:rowan_stripped_wood"
+    }
+  ],
   "result": {
     "id": "stevescarts:component_wooden_wheels",
     "count": 1

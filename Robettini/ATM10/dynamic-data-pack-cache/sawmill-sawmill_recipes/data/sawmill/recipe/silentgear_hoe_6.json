@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:bull_pine_log"
+      "item": "biomeswevegone:florus_stem"
     },
     {
-      "item": "productivetrees:bull_pine_wood"
+      "item": "biomeswevegone:florus_wood"
     },
     {
-      "item": "productivetrees:bull_pine_stripped_log"
+      "item": "biomeswevegone:stripped_florus_stem"
     },
     {
-      "item": "productivetrees:bull_pine_stripped_wood"
+      "item": "biomeswevegone:stripped_florus_wood"
     }
   ],
   "result": {

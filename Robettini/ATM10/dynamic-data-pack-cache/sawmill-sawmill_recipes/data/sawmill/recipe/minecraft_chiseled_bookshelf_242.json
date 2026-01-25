@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "biomeswevegone:palm_log"
-    },
-    {
-      "item": "biomeswevegone:palm_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_palm_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_palm_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "minecraft:chiseled_bookshelf",
     "count": 1

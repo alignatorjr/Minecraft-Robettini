@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:firecracker_log"
+      "item": "biomeswevegone:baobab_log"
     },
     {
-      "item": "productivetrees:firecracker_wood"
+      "item": "biomeswevegone:baobab_wood"
     },
     {
-      "item": "productivetrees:firecracker_stripped_log"
+      "item": "biomeswevegone:stripped_baobab_log"
     },
     {
-      "item": "productivetrees:firecracker_stripped_wood"
+      "item": "biomeswevegone:stripped_baobab_wood"
     }
   ],
   "result": {

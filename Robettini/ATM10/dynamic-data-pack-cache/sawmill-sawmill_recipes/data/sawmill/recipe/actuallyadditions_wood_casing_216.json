@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:eucalyptus_log"
+      "item": "productivetrees:dogwood_log"
     },
     {
-      "item": "regions_unexplored:eucalyptus_wood"
+      "item": "productivetrees:dogwood_wood"
     },
     {
-      "item": "regions_unexplored:stripped_eucalyptus_log"
+      "item": "productivetrees:dogwood_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_eucalyptus_wood"
+      "item": "productivetrees:dogwood_stripped_wood"
     }
   ],
   "result": {

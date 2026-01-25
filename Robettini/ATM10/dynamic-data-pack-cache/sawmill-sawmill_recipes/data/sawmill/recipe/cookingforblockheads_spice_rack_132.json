@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:mahogany_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "biomeswevegone:mahogany_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_mahogany_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_mahogany_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

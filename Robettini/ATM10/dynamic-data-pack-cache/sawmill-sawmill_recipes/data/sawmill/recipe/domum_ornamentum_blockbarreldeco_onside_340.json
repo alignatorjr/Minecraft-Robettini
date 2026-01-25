@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:florus_stem"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "biomeswevegone:florus_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_florus_stem"
-    },
-    {
-      "item": "biomeswevegone:stripped_florus_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

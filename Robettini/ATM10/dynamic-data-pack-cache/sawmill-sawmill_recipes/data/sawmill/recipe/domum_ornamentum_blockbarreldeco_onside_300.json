@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cinnamon_log"
+      "item": "biomeswevegone:skyris_log"
     },
     {
-      "item": "productivetrees:cinnamon_wood"
+      "item": "biomeswevegone:skyris_wood"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_log"
+      "item": "biomeswevegone:stripped_skyris_log"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_wood"
+      "item": "biomeswevegone:stripped_skyris_wood"
     }
   ],
   "result": {

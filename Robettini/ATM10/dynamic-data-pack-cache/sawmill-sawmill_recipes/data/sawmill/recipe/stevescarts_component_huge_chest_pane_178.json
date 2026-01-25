@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:buddhas_hand_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "productivetrees:buddhas_hand_wood"
+      "item": "twilightforest:sorting_wood"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_log"
+      "item": "twilightforest:stripped_sorting_log"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_wood"
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {

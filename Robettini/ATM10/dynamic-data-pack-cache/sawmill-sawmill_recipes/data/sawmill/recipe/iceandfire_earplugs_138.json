@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:mangrove_log"
+      "item": "productivetrees:plantain_log"
     },
     {
-      "item": "twilightforest:mangrove_wood"
+      "item": "productivetrees:plantain_wood"
     },
     {
-      "item": "twilightforest:stripped_mangrove_log"
+      "item": "productivetrees:plantain_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_mangrove_wood"
+      "item": "productivetrees:plantain_stripped_wood"
     }
   ],
   "result": {

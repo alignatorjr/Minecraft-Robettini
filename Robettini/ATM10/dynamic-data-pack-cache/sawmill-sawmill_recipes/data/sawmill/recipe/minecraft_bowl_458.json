@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:fir_log"
+      "item": "eternal_starlight:cradlewood_log"
     },
     {
-      "item": "biomeswevegone:fir_wood"
+      "item": "eternal_starlight:cradlewood_wood"
     },
     {
-      "item": "biomeswevegone:stripped_fir_log"
+      "item": "eternal_starlight:stripped_cradlewood_log"
     },
     {
-      "item": "biomeswevegone:stripped_fir_wood"
+      "item": "eternal_starlight:stripped_cradlewood_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

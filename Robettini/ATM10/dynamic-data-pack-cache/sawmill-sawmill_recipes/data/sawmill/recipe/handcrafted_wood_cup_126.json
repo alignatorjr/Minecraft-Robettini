@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:balsa_log"
+      "item": "undergarden:grongle_log"
     },
     {
-      "item": "productivetrees:balsa_wood"
+      "item": "undergarden:grongle_wood"
     },
     {
-      "item": "productivetrees:balsa_stripped_log"
+      "item": "undergarden:stripped_grongle_log"
     },
     {
-      "item": "productivetrees:balsa_stripped_wood"
+      "item": "undergarden:stripped_grongle_wood"
     }
   ],
   "result": {

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:zelkova_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "biomeswevegone:zelkova_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_zelkova_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_zelkova_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

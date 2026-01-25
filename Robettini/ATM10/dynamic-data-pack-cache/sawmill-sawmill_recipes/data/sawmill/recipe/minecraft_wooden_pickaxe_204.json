@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:night_fuchsia_log"
+      "item": "productivetrees:yew_log"
     },
     {
-      "item": "productivetrees:night_fuchsia_wood"
+      "item": "productivetrees:yew_wood"
     },
     {
-      "item": "productivetrees:night_fuchsia_stripped_log"
+      "item": "productivetrees:yew_stripped_log"
     },
     {
-      "item": "productivetrees:night_fuchsia_stripped_wood"
+      "item": "productivetrees:yew_stripped_wood"
     }
   ],
   "result": {

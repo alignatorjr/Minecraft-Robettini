@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:baobab_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "biomeswevegone:baobab_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_baobab_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_baobab_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

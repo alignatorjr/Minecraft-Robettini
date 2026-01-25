@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brazil_nut_log"
+      "item": "productivetrees:tangerine_log"
     },
     {
-      "item": "productivetrees:brazil_nut_wood"
+      "item": "productivetrees:tangerine_wood"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_log"
+      "item": "productivetrees:tangerine_stripped_log"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_wood"
+      "item": "productivetrees:tangerine_stripped_wood"
     }
   ],
   "result": {

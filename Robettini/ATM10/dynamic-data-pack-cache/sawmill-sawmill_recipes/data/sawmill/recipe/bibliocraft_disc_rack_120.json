@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:pistachio_log"
+    },
+    {
+      "item": "productivetrees:pistachio_wood"
+    },
+    {
+      "item": "productivetrees:pistachio_stripped_log"
+    },
+    {
+      "item": "productivetrees:pistachio_stripped_wood"
+    }
+  ],
   "result": {
     "id": "bibliocraft:disc_rack",
     "count": 2

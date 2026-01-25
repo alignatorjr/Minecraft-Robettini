@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:larch_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "regions_unexplored:larch_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "regions_unexplored:stripped_larch_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "regions_unexplored:stripped_larch_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

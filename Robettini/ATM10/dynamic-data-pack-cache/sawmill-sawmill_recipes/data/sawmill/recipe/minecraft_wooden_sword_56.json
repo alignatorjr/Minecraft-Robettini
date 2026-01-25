@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:myrtle_ebony_log"
+      "item": "biomeswevegone:green_enchanted_log"
     },
     {
-      "item": "productivetrees:myrtle_ebony_wood"
+      "item": "biomeswevegone:green_enchanted_wood"
     },
     {
-      "item": "productivetrees:myrtle_ebony_stripped_log"
+      "item": "biomeswevegone:stripped_green_enchanted_log"
     },
     {
-      "item": "productivetrees:myrtle_ebony_stripped_wood"
+      "item": "biomeswevegone:stripped_green_enchanted_wood"
     }
   ],
   "result": {

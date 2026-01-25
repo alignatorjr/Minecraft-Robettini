@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:yellow_meranti_log"
-    },
-    {
-      "item": "productivetrees:yellow_meranti_wood"
-    },
-    {
-      "item": "productivetrees:yellow_meranti_stripped_log"
-    },
-    {
-      "item": "productivetrees:yellow_meranti_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "silentgear:shovel",
     "count": 1

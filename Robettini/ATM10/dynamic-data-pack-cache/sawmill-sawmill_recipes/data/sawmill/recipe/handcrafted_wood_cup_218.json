@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:twilight_oak_log"
+      "item": "productivetrees:slimy_delight_log"
     },
     {
-      "item": "twilightforest:twilight_oak_wood"
+      "item": "productivetrees:slimy_delight_wood"
     },
     {
-      "item": "twilightforest:stripped_twilight_oak_log"
+      "item": "productivetrees:slimy_delight_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_twilight_oak_wood"
+      "item": "productivetrees:slimy_delight_stripped_wood"
     }
   ],
   "result": {

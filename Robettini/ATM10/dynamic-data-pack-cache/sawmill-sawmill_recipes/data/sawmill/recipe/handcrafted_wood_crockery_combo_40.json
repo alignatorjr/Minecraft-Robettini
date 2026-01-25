@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brazil_nut_log"
+      "item": "regions_unexplored:pink_bioshroom_stem"
     },
     {
-      "item": "productivetrees:brazil_nut_wood"
+      "item": "regions_unexplored:pink_bioshroom_hyphae"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_log"
+      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_wood"
+      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
     }
   ],
   "result": {

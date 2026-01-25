@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:slimy_delight_log"
+    },
+    {
+      "item": "productivetrees:slimy_delight_wood"
+    },
+    {
+      "item": "productivetrees:slimy_delight_stripped_log"
+    },
+    {
+      "item": "productivetrees:slimy_delight_stripped_wood"
+    }
+  ],
   "result": {
     "id": "evilcraft:display_stand",
     "count": 1

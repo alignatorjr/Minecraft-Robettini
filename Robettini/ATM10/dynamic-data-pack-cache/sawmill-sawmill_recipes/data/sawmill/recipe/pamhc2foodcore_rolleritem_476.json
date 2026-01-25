@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:zebrano_log"
+      "item": "productivetrees:mandarin_log"
     },
     {
-      "item": "productivetrees:zebrano_wood"
+      "item": "productivetrees:mandarin_wood"
     },
     {
-      "item": "productivetrees:zebrano_stripped_log"
+      "item": "productivetrees:mandarin_stripped_log"
     },
     {
-      "item": "productivetrees:zebrano_stripped_wood"
+      "item": "productivetrees:mandarin_stripped_wood"
     }
   ],
   "result": {

@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:brown_amber_log"
+    },
+    {
+      "item": "productivetrees:brown_amber_wood"
+    },
+    {
+      "item": "productivetrees:brown_amber_stripped_log"
+    },
+    {
+      "item": "productivetrees:brown_amber_stripped_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:chiseled_bookshelf",
     "count": 1

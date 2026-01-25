@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "productivetrees:grandidiers_baobab_log"
     },
     {
-      "item": "undergarden:wigglewood_wood"
+      "item": "productivetrees:grandidiers_baobab_wood"
     },
     {
-      "item": "undergarden:stripped_wigglewood_log"
+      "item": "productivetrees:grandidiers_baobab_stripped_log"
     },
     {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "productivetrees:grandidiers_baobab_stripped_wood"
     }
   ],
   "result": {

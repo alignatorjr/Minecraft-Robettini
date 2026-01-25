@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:sugar_apple_log"
+    },
+    {
+      "item": "productivetrees:sugar_apple_wood"
+    },
+    {
+      "item": "productivetrees:sugar_apple_stripped_log"
+    },
+    {
+      "item": "productivetrees:sugar_apple_stripped_wood"
+    }
+  ],
   "result": {
     "id": "aquaculture:wooden_fillet_knife",
     "count": 1

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:kapok_log"
+      "item": "eternal_starlight:jinglestem_log"
     },
     {
-      "item": "productivetrees:kapok_wood"
+      "item": "eternal_starlight:jinglestem_wood"
     },
     {
-      "item": "productivetrees:kapok_stripped_log"
+      "item": "eternal_starlight:stripped_jinglestem_log"
     },
     {
-      "item": "productivetrees:kapok_stripped_wood"
+      "item": "eternal_starlight:stripped_jinglestem_wood"
     }
   ],
   "result": {

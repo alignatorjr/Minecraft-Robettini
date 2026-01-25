@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:coconut_log"
+      "item": "productivetrees:aquilaria_log"
     },
     {
-      "item": "productivetrees:coconut_wood"
+      "item": "productivetrees:aquilaria_wood"
     },
     {
-      "item": "productivetrees:coconut_stripped_log"
+      "item": "productivetrees:aquilaria_stripped_log"
     },
     {
-      "item": "productivetrees:coconut_stripped_wood"
+      "item": "productivetrees:aquilaria_stripped_wood"
     }
   ],
   "result": {

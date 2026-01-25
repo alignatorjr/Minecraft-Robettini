@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:yellow_bioshroom_stem"
+      "item": "productivetrees:rowan_log"
     },
     {
-      "item": "regions_unexplored:yellow_bioshroom_hyphae"
+      "item": "productivetrees:rowan_wood"
     },
     {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
+      "item": "productivetrees:rowan_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
+      "item": "productivetrees:rowan_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

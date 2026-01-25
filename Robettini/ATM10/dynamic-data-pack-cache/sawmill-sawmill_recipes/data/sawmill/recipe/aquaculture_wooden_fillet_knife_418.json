@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:monkey_puzzle_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "productivetrees:monkey_puzzle_wood"
-    },
-    {
-      "item": "productivetrees:monkey_puzzle_stripped_log"
-    },
-    {
-      "item": "productivetrees:monkey_puzzle_stripped_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
