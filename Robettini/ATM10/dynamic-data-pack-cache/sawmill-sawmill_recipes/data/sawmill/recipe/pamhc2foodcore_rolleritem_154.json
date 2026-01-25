@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pistachio_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "productivetrees:pistachio_wood"
-    },
-    {
-      "item": "productivetrees:pistachio_stripped_log"
-    },
-    {
-      "item": "productivetrees:pistachio_stripped_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

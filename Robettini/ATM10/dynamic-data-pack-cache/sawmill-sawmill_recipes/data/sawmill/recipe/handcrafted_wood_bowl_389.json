@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:finger_lime_planks"
+    "item": "biomeswevegone:fir_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

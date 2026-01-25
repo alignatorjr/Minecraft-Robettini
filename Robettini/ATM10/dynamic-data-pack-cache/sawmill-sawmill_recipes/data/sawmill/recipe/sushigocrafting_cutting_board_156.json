@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "regions_unexplored:maple_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "regions_unexplored:maple_wood"
+    },
+    {
+      "item": "regions_unexplored:stripped_maple_log"
+    },
+    {
+      "item": "regions_unexplored:stripped_maple_wood"
     }
   ],
   "result": {

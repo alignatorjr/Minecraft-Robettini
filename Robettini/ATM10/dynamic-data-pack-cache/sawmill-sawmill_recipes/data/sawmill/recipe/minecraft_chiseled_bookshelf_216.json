@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:holly_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "biomeswevegone:holly_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_holly_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_holly_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

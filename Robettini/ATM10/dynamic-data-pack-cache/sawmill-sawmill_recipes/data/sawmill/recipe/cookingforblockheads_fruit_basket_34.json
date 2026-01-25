@@ -1,11 +1,22 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_wood"
+    },
+    {
+      "item": "aether:stripped_skyroot_log"
+    },
+    {
+      "item": "aether:stripped_skyroot_wood"
+    }
+  ],
   "result": {
     "id": "cookingforblockheads:fruit_basket",
-    "count": 1
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:palm_planks"
+    "item": "productivetrees:european_larch_planks"
   },
   "result": {
     "id": "minecraft:bowl",

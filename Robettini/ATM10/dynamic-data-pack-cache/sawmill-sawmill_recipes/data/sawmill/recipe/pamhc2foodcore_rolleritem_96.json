@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "minecraft:cherry_log"
-    },
-    {
-      "item": "minecraft:cherry_wood"
-    },
-    {
-      "item": "minecraft:stripped_cherry_log"
-    },
-    {
-      "item": "minecraft:stripped_cherry_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "pamhc2foodcore:rolleritem",
     "count": 1

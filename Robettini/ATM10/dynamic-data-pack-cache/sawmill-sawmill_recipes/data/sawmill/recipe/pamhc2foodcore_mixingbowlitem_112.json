@@ -1,8 +1,13 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "forbidden_arcanus:fungyss_stem"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_hyphae"
+    }
+  ],
   "result": {
     "id": "pamhc2foodcore:mixingbowlitem",
     "count": 1

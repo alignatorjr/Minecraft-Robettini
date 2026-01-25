@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {
     "id": "actuallyadditions:wooden_aiot",
     "count": 1
   },
-  "ingredient_count": 6,
+  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

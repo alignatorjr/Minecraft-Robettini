@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:witch_hazel_log"
+      "item": "undergarden:grongle_log"
     },
     {
-      "item": "biomeswevegone:witch_hazel_wood"
+      "item": "undergarden:grongle_wood"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_log"
+      "item": "undergarden:stripped_grongle_log"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_wood"
+      "item": "undergarden:stripped_grongle_wood"
     }
   ],
   "result": {

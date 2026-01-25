@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:myrtle_ebony_log"
+      "item": "undergarden:grongle_log"
     },
     {
-      "item": "productivetrees:myrtle_ebony_wood"
+      "item": "undergarden:grongle_wood"
     },
     {
-      "item": "productivetrees:myrtle_ebony_stripped_log"
+      "item": "undergarden:stripped_grongle_log"
     },
     {
-      "item": "productivetrees:myrtle_ebony_stripped_wood"
+      "item": "undergarden:stripped_grongle_wood"
     }
   ],
   "result": {

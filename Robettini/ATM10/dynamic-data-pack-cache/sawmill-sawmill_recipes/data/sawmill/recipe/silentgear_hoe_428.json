@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "undergarden:grongle_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "undergarden:grongle_wood"
+    },
+    {
+      "item": "undergarden:stripped_grongle_log"
+    },
+    {
+      "item": "undergarden:stripped_grongle_wood"
     }
   ],
   "result": {

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "productivetrees:padauk_log"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "productivetrees:padauk_wood"
+    },
+    {
+      "item": "productivetrees:padauk_stripped_log"
+    },
+    {
+      "item": "productivetrees:padauk_stripped_wood"
     }
   ],
   "result": {

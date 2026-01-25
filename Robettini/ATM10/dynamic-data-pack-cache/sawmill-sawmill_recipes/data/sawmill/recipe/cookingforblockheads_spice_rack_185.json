@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:socotra_planks"
+    "item": "biomeswevegone:palm_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

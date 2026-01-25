@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:mandarin_log"
+      "item": "productivetrees:whitebeam_log"
     },
     {
-      "item": "productivetrees:mandarin_wood"
+      "item": "productivetrees:whitebeam_wood"
     },
     {
-      "item": "productivetrees:mandarin_stripped_log"
+      "item": "productivetrees:whitebeam_stripped_log"
     },
     {
-      "item": "productivetrees:mandarin_stripped_wood"
+      "item": "productivetrees:whitebeam_stripped_wood"
     }
   ],
   "result": {

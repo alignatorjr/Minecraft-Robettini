@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:juniper_log"
+      "item": "undergarden:smogstem_log"
     },
     {
-      "item": "productivetrees:juniper_wood"
+      "item": "undergarden:smogstem_wood"
     },
     {
-      "item": "productivetrees:juniper_stripped_log"
+      "item": "undergarden:stripped_smogstem_log"
     },
     {
-      "item": "productivetrees:juniper_stripped_wood"
+      "item": "undergarden:stripped_smogstem_wood"
     }
   ],
   "result": {

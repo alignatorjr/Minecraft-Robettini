@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:willow_log"
+      "item": "productivetrees:aquilaria_log"
     },
     {
-      "item": "biomeswevegone:willow_wood"
+      "item": "productivetrees:aquilaria_wood"
     },
     {
-      "item": "biomeswevegone:stripped_willow_log"
+      "item": "productivetrees:aquilaria_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_willow_wood"
+      "item": "productivetrees:aquilaria_stripped_wood"
     }
   ],
   "result": {

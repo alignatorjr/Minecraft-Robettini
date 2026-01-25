@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "productivetrees:slimy_delight_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "productivetrees:slimy_delight_wood"
+    },
+    {
+      "item": "productivetrees:slimy_delight_stripped_log"
+    },
+    {
+      "item": "productivetrees:slimy_delight_stripped_wood"
     }
   ],
   "result": {
     "id": "stevescarts:component_chest_pane",
-    "count": 7
+    "count": 10
   },
   "type": "sawmill:woodcutting"
 }

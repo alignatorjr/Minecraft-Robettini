@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:dogwood_log"
+      "item": "biomeswevegone:spirit_log"
     },
     {
-      "item": "productivetrees:dogwood_wood"
+      "item": "biomeswevegone:spirit_wood"
     },
     {
-      "item": "productivetrees:dogwood_stripped_log"
+      "item": "biomeswevegone:stripped_spirit_log"
     },
     {
-      "item": "productivetrees:dogwood_stripped_wood"
+      "item": "biomeswevegone:stripped_spirit_wood"
     }
   ],
   "result": {

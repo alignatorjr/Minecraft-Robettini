@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brown_amber_log"
+      "item": "productivetrees:buddhas_hand_log"
     },
     {
-      "item": "productivetrees:brown_amber_wood"
+      "item": "productivetrees:buddhas_hand_wood"
     },
     {
-      "item": "productivetrees:brown_amber_stripped_log"
+      "item": "productivetrees:buddhas_hand_stripped_log"
     },
     {
-      "item": "productivetrees:brown_amber_stripped_wood"
+      "item": "productivetrees:buddhas_hand_stripped_wood"
     }
   ],
   "result": {

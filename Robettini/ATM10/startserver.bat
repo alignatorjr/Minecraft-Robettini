@@ -53,7 +53,7 @@ if not %jver% geq 21  (
 ) 
 
 :START
-"%ATM10_JAVA%" @user_jvm_args.txt @libraries\net\neoforged\neoforge\%NEOFORGE_VERSION%\win_args.txt nogui
+"%ATM10_JAVA%" @user_jvm_args.txt @libraries\net\neoforged\neoforge\%NEOFORGE_VERSION%\win_args.txt
 
 if "%ATM10_RESTART%" == "false" ( 
     goto:EOF 
@@ -61,4 +61,4 @@ if "%ATM10_RESTART%" == "false" (
 
 echo Restarting automatically in 10 seconds (press Ctrl + C to cancel)
 timeout /t 10 /nobreak > NUL
-goto:START
+::goto:START

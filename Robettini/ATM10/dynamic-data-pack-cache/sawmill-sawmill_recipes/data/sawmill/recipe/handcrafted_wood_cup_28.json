@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:aurum_log"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "forbidden_arcanus:aurum_wood"
+      "item": "aether:skyroot_wood"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_log"
+      "item": "aether:stripped_skyroot_log"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_wood"
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {

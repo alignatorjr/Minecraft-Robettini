@@ -2,21 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:grongle_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "undergarden:grongle_wood"
-    },
-    {
-      "item": "undergarden:stripped_grongle_log"
-    },
-    {
-      "item": "undergarden:stripped_grongle_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "handcrafted:wood_cup",
-    "count": 8
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

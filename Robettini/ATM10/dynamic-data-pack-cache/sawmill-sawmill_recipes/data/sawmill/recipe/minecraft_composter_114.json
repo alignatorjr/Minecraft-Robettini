@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:zebrano_log"
+      "item": "biomeswevegone:mahogany_log"
     },
     {
-      "item": "productivetrees:zebrano_wood"
+      "item": "biomeswevegone:mahogany_wood"
     },
     {
-      "item": "productivetrees:zebrano_stripped_log"
+      "item": "biomeswevegone:stripped_mahogany_log"
     },
     {
-      "item": "productivetrees:zebrano_stripped_wood"
+      "item": "biomeswevegone:stripped_mahogany_wood"
     }
   ],
   "result": {

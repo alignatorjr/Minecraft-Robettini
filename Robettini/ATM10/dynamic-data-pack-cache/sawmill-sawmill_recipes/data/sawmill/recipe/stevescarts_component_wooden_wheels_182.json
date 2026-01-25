@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:yellow_bioshroom_stem"
+      "item": "productivetrees:slimy_delight_log"
     },
     {
-      "item": "regions_unexplored:yellow_bioshroom_hyphae"
+      "item": "productivetrees:slimy_delight_wood"
     },
     {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
+      "item": "productivetrees:slimy_delight_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
+      "item": "productivetrees:slimy_delight_stripped_wood"
     }
   ],
   "result": {

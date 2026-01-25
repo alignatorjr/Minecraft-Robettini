@@ -2,10 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:soul_log"
+      "item": "evilcraft:undead_log"
     },
     {
-      "item": "allthemodium:stripped_soul_log"
+      "item": "evilcraft:undead_wood"
     }
   ],
   "result": {

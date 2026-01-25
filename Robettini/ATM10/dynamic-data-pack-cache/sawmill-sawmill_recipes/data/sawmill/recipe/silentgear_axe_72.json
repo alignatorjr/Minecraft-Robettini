@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:blue_enchanted_log"
+      "item": "regions_unexplored:yellow_bioshroom_stem"
     },
     {
-      "item": "biomeswevegone:blue_enchanted_wood"
+      "item": "regions_unexplored:yellow_bioshroom_hyphae"
     },
     {
-      "item": "biomeswevegone:stripped_blue_enchanted_log"
+      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
     },
     {
-      "item": "biomeswevegone:stripped_blue_enchanted_wood"
+      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
     }
   ],
   "result": {

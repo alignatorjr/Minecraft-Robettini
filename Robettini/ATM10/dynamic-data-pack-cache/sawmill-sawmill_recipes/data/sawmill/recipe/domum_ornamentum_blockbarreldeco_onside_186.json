@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:cultivated_pear_log"
+    },
+    {
+      "item": "productivetrees:cultivated_pear_wood"
+    },
+    {
+      "item": "productivetrees:cultivated_pear_stripped_log"
+    },
+    {
+      "item": "productivetrees:cultivated_pear_stripped_wood"
+    }
+  ],
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_onside",
     "count": 1

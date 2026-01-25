@@ -1,8 +1,13 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:stripped_soul_log"
+    }
+  ],
   "result": {
     "id": "minecraft:wooden_pickaxe",
     "count": 1

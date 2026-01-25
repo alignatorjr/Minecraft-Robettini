@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yellow_meranti_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:yellow_meranti_wood"
-    },
-    {
-      "item": "productivetrees:yellow_meranti_stripped_log"
-    },
-    {
-      "item": "productivetrees:yellow_meranti_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

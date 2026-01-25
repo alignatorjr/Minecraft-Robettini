@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:flickering_sun_log"
+      "item": "biomeswevegone:aspen_log"
     },
     {
-      "item": "productivetrees:flickering_sun_wood"
+      "item": "biomeswevegone:aspen_wood"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_log"
+      "item": "biomeswevegone:stripped_aspen_log"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_wood"
+      "item": "biomeswevegone:stripped_aspen_wood"
     }
   ],
   "result": {

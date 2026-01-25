@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "biomeswevegone:pine_log"
-    },
-    {
-      "item": "biomeswevegone:pine_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_pine_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_pine_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_standing",
     "count": 1

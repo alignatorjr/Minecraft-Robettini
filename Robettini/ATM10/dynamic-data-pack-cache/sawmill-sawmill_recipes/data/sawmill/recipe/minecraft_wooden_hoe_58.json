@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "productivetrees:nutmeg_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "productivetrees:nutmeg_wood"
+    },
+    {
+      "item": "productivetrees:nutmeg_stripped_log"
+    },
+    {
+      "item": "productivetrees:nutmeg_stripped_wood"
     }
   ],
   "result": {

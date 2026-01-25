@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:coconut_log"
+      "item": "productivetrees:brazil_nut_log"
     },
     {
-      "item": "productivetrees:coconut_wood"
+      "item": "productivetrees:brazil_nut_wood"
     },
     {
-      "item": "productivetrees:coconut_stripped_log"
+      "item": "productivetrees:brazil_nut_stripped_log"
     },
     {
-      "item": "productivetrees:coconut_stripped_wood"
+      "item": "productivetrees:brazil_nut_stripped_wood"
     }
   ],
   "result": {

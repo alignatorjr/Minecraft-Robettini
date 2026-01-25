@@ -1,12 +1,22 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "cataclysm:chorus_stem"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:butternut_log"
+    },
+    {
+      "item": "productivetrees:butternut_wood"
+    },
+    {
+      "item": "productivetrees:butternut_stripped_log"
+    },
+    {
+      "item": "productivetrees:butternut_stripped_wood"
+    }
+  ],
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_onside",
     "count": 1
   },
-  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:aurum_log"
+      "item": "productivetrees:apricot_log"
     },
     {
-      "item": "forbidden_arcanus:aurum_wood"
+      "item": "productivetrees:apricot_wood"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_log"
+      "item": "productivetrees:apricot_stripped_log"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_wood"
+      "item": "productivetrees:apricot_stripped_wood"
     }
   ],
   "result": {

@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "eternal_starlight:cradlewood_log"
+    },
+    {
+      "item": "eternal_starlight:cradlewood_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_cradlewood_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_cradlewood_wood"
+    }
+  ],
   "result": {
     "id": "evilcraft:display_stand",
     "count": 1

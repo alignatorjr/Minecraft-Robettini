@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:twilight_oak_log"
+      "item": "productivetrees:rosewood_log"
     },
     {
-      "item": "twilightforest:twilight_oak_wood"
+      "item": "productivetrees:rosewood_wood"
     },
     {
-      "item": "twilightforest:stripped_twilight_oak_log"
+      "item": "productivetrees:rosewood_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_twilight_oak_wood"
+      "item": "productivetrees:rosewood_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:breadfruit_log"
+      "item": "productivetrees:cave_dweller_log"
     },
     {
-      "item": "productivetrees:breadfruit_wood"
+      "item": "productivetrees:cave_dweller_wood"
     },
     {
-      "item": "productivetrees:breadfruit_stripped_log"
+      "item": "productivetrees:cave_dweller_stripped_log"
     },
     {
-      "item": "productivetrees:breadfruit_stripped_wood"
+      "item": "productivetrees:cave_dweller_stripped_wood"
     }
   ],
   "result": {

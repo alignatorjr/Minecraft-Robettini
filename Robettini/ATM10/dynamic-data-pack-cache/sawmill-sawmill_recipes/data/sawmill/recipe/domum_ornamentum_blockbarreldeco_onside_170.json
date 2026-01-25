@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:skyris_log"
+      "item": "twilightforest:dark_log"
     },
     {
-      "item": "biomeswevegone:skyris_wood"
+      "item": "twilightforest:dark_wood"
     },
     {
-      "item": "biomeswevegone:stripped_skyris_log"
+      "item": "twilightforest:stripped_dark_log"
     },
     {
-      "item": "biomeswevegone:stripped_skyris_wood"
+      "item": "twilightforest:stripped_dark_wood"
     }
   ],
   "result": {

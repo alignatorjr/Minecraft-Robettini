@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:ceylon_ebony_planks"
+    "item": "productivetrees:aquilaria_planks"
   },
   "result": {
     "id": "minecraft:bowl",

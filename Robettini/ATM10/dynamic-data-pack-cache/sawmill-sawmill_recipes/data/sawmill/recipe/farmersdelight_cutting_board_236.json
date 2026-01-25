@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "twilightforest:transformation_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "twilightforest:transformation_wood"
+    },
+    {
+      "item": "twilightforest:stripped_transformation_log"
+    },
+    {
+      "item": "twilightforest:stripped_transformation_wood"
     }
   ],
   "result": {

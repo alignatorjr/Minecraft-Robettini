@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:plum_planks"
+    "item": "integrateddynamics:menril_planks"
   },
   "result": {
     "id": "minecraft:bowl",

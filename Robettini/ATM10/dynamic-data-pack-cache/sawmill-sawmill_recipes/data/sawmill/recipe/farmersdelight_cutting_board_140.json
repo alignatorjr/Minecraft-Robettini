@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:buddhas_hand_log"
+      "item": "biomeswevegone:zelkova_log"
     },
     {
-      "item": "productivetrees:buddhas_hand_wood"
+      "item": "biomeswevegone:zelkova_wood"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_log"
+      "item": "biomeswevegone:stripped_zelkova_log"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_wood"
+      "item": "biomeswevegone:stripped_zelkova_wood"
     }
   ],
   "result": {

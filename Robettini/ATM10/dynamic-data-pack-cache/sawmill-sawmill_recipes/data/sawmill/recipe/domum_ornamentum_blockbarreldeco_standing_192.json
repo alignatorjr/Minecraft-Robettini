@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:purpleheart_log"
+    },
+    {
+      "item": "productivetrees:purpleheart_wood"
+    },
+    {
+      "item": "productivetrees:purpleheart_stripped_log"
+    },
+    {
+      "item": "productivetrees:purpleheart_stripped_wood"
+    }
+  ],
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_standing",
     "count": 1

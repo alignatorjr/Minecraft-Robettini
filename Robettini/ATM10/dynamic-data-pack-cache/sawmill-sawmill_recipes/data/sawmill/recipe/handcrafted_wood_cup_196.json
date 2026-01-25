@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:florus_stem"
+      "item": "minecraft:spruce_log"
     },
     {
-      "item": "biomeswevegone:florus_wood"
+      "item": "minecraft:spruce_wood"
     },
     {
-      "item": "biomeswevegone:stripped_florus_stem"
+      "item": "minecraft:stripped_spruce_log"
     },
     {
-      "item": "biomeswevegone:stripped_florus_wood"
+      "item": "minecraft:stripped_spruce_wood"
     }
   ],
   "result": {

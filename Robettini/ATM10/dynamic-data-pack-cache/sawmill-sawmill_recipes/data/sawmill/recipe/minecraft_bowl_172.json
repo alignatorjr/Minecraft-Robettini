@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "regions_unexplored:palm_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "regions_unexplored:palm_wood"
+    },
+    {
+      "item": "regions_unexplored:stripped_palm_log"
+    },
+    {
+      "item": "regions_unexplored:stripped_palm_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:logwood_log"
+      "item": "productivetrees:coconut_log"
     },
     {
-      "item": "productivetrees:logwood_wood"
+      "item": "productivetrees:coconut_wood"
     },
     {
-      "item": "productivetrees:logwood_stripped_log"
+      "item": "productivetrees:coconut_stripped_log"
     },
     {
-      "item": "productivetrees:logwood_stripped_wood"
+      "item": "productivetrees:coconut_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:ginkgo_log"
+      "item": "regions_unexplored:blackwood_log"
     },
     {
-      "item": "productivetrees:ginkgo_wood"
+      "item": "regions_unexplored:blackwood_wood"
     },
     {
-      "item": "productivetrees:ginkgo_stripped_log"
+      "item": "regions_unexplored:stripped_blackwood_log"
     },
     {
-      "item": "productivetrees:ginkgo_stripped_wood"
+      "item": "regions_unexplored:stripped_blackwood_wood"
     }
   ],
   "result": {
